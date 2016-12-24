@@ -1,0 +1,56 @@
+
+
+
+Test configuration: 
+-n: 100
+-sample_size: 1000000
+-output: distr100.dat
+
+sample_from_distribution: 
+-time elapsed: 0.211445s
+sample_from_distribution_bin: 
+-time elapsed: 0.173796s
+sample_from_distribution_rect: 
+-time elapsed: 0.134451s
+
+
+
+Test configuration: 
+-n: 400
+-sample_size: 1000000
+-output: distr400.dat
+
+sample_from_distribution: 
+-time elapsed: 0.292164s
+sample_from_distribution_bin: 
+-time elapsed: 0.200022s
+sample_from_distribution_rect: 
+-time elapsed: 0.149009s
+
+
+
+Test configuration: 
+-n: 700
+-sample_size: 1000000
+-output: distr700.dat
+
+sample_from_distribution: 
+-time elapsed: 0.660737s
+sample_from_distribution_bin: 
+-time elapsed: 0.204886s
+sample_from_distribution_rect: 
+-time elapsed: 0.14692s
+
+
+
+Test configuration: 
+-n: 1000
+-sample_size: 1000000
+-output: distr1000.dat
+
+sample_from_distribution: 
+-time elapsed: 0.515098s
+sample_from_distribution_bin: 
+-time elapsed: 0.213083s
+sample_from_distribution_rect: 
+-time elapsed: 0.14663s
